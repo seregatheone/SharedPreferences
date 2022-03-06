@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="SharedPreference"
+        android:id="@+id/SharedPreference"/>
+    <item android:title="Random background"
+        android:id="@+id/RandomBackground"/>
+    <item android:title="New Activity"
+        android:id="@+id/NewActivity"/>
+</menu>
